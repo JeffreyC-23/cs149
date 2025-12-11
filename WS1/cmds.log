@@ -1,0 +1,16 @@
+  605  pwd
+  606  cd ~/Desktop
+  607  mkdir cs149
+  608  cd cs149
+  609  git init
+  610  git config --global user.email "castro.jeffrey48@gmail.com"
+  611  git config --global user.name "castro.JeffreyCastro"
+  612  ls -a
+  613  mkdir WS1
+  614  cd WS1
+  615  git add .
+  616  wget -O out.pdf https://tinyurl.com/yy94jltt
+  617  brew install wget
+  618  curl -L https://tinyurl.com/yy94jltt -o out.pdf
+  619  ls -latr
+  620  history >cmds.log
