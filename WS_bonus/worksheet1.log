@@ -1,0 +1,16 @@
+  653  nano user/usertests.c
+  654  nano user/usertests.c
+  655  make clean
+  656  make qemu
+  657  nano user/usertests.c
+  658  make clean
+  659  make qemu
+  660  brew install qemu
+  661  make clean
+  662  make qemu
+  663  ls Makefile
+  664  nano Makefile
+  665  ls user/sleep.c
+  666  make clean
+  667  make qemu
+  668  ./grade-lab-util sleep\n
